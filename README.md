@@ -1,0 +1,1 @@
+This website is a project to test my skills in doing basic HTML by utilizing links and images to create a website that contains some of my favorite recipes that I have found online.
